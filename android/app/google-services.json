@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791965549433",
+    "project_id": "trucker-motor",
+    "storage_bucket": "trucker-motor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791965549433:android:0d586448a73741a2eb65a8",
+        "android_client_info": {
+          "package_name": "com.example.trucker_motor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtpCWlr1nhxGOe2awe_l1hU14TRSdypGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
